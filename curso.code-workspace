@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "01-intro-react"
+		},
+		{
+			"path": "02-intro-javascript"
+		},
+		{
+			"path": "03-counter-app"
+		},
+		{
+			"path": "04-gif-expert-app"
+		},
+		{
+			"path": "05-hooks-app"
+		},
+		{
+			"path": "06-repo-hooks"
+		},
+		{
+			"path": "07-heroes-app"
+		},
+		{
+			"path": "08-react-redux-journal-app"
+		},
+		{
+			"path": "09-calendar-app"
+		}
+	],
+	"settings": {
+		"compile-hero.disable-compile-files-on-did-save-code": true
+	}
+}
