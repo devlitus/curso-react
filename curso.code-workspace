@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "09-calendar-app"
+		},
+		{
+			"path": "10-calendar-backend"
 		}
 	],
 	"settings": {
